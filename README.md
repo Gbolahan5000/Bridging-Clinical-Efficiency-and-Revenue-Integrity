@@ -40,7 +40,9 @@ The data contains
 -	Discharge date
 -	Medication
 -	Test results
- 
+
+![Table View](table%20view.png)
+
 ### Tools used
 
 -	Excel/power query – ETL process
