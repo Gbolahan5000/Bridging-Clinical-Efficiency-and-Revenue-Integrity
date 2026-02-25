@@ -95,3 +95,8 @@ and **Efficiency focused**
 
 ## Visualization
 
+![Executive summary](Executive%20summary.png)
+
+![Financial View](Financial.png)
+
+![Clinical Operations](clinical.png)
