@@ -30,14 +30,12 @@ This project analyzes **six years of hospital data (2019–2024) totaling $1.4B 
 clinical-revenue-integrity/
 │
 ├── assets/
-│   ├── financial-view.png
-│   └── clinical-operations.png
+│   ├── clinical.png
+│   ├── financial.png
+│   └── table_view.png
 │
 ├── data/
-│   └── hospital_records_2019_2024.csv
-│
-├── workbook/
-│   └── clinical_revenue_integrity.xlsx
+│   └── healthcare_dataset.csv
 │
 └── README.md
 ```
@@ -78,7 +76,7 @@ Leadership noticed patient volume and treatment costs rising in tandem and neede
 
 ## 💰 Financial View
 
-![Financial View Dashboard](assets/financial-view.png)
+![Financial View Dashboard](assets/financial.png)
 
 | Metric | Value |
 |---|---|
@@ -98,7 +96,7 @@ Leadership noticed patient volume and treatment costs rising in tandem and neede
 
 ## 🏥 Clinical Operations
 
-![Clinical Operations Dashboard](assets/clinical-operations.png)
+![Clinical Operations Dashboard](assets/clinical.png)
 
 | Metric | Value |
 |---|---|
@@ -147,9 +145,9 @@ Leadership noticed patient volume and treatment costs rising in tandem and neede
 
 | Deliverable | Description |
 |---|---|
-| `workbook/clinical_revenue_integrity.xlsx` | Full Excel workbook — Power Query ETL, DAX measures, dashboards |
-| `assets/financial-view.png` | Financial View dashboard |
-| `assets/clinical-operations.png` | Clinical Operations dashboard |
+| `data/healthcare_dataset.csv` | Full Excel workbook — Power Query ETL, DAX measures, dashboards |
+| `assets/financial.png` | Financial View dashboard |
+| `assets/clinical.png` | Clinical Operations dashboard |
 | `README.md` | Full project documentation |
 
 ---
